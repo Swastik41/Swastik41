@@ -1,99 +1,93 @@
-<h1 align="center">Hi there! 👋 I'm Swastik Pathak</h1>
-<h3 align="center">Full-Stack Developer | AI Enthusiast | Tech Explorer</h3>
+<h1 align="center">🚀 Swastik Pathak | Full-Stack Developer</h1>  
+<p align="center">  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=2AEBD7&center=true&vCenter=true&width=900&lines=Building+Scalable+Web+Apps+with+Modern+Technologies!;Full-Stack+Developer+%7C+Problem+Solver+%7C+Tech+Enthusiast;Passionate+About+JavaScript%2C+React%2C+Node.js%2C+MongoDB!" alt="Typing SVG" />  
+</p>  
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=swastik41&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-🚀 **About Me**  
-I am a passionate Full-Stack Developer based in Canada with expertise in building scalable web applications, backend architectures, and cloud integrations. I thrive on solving complex problems and continuously learning new technologies.
-
-### 🔧 Currently Working On:
-- **Fitness Tracker Web Application** (Details coming soon)
-- Exploring **MariaDB, NoSQL, React, and PHP**
-- Contributing to **MongoDB-powered applications**
-- Collaborating on **Real-World Projects** like a **Driving License Application**
-
-### 💬 Let's Talk About:
-- Full-Stack Development (**Node.js, Express.js, React.js, PHP, MongoDB, MySQL**)
-- Scalable backend solutions & database optimizations
-- Frontend technologies & UI/UX enhancements
-- AI & Machine Learning integration
-- **Graphic Design** (Adobe Illustrator, Figma)
-
-### 📬 Connect with Me:
-<p align="left">
-  <a href="https://linkedin.com/in/swastik-pathak-3306371ba" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://stackoverflow.com/users/29829713" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/swastik41" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Geeks for Geeks" height="30" width="40" />
-  </a>
-</p>
+<p align="center">  
+  <img src="https://komarev.com/ghpvc/?username=swastik41&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />  
+  <a href="https://www.linkedin.com/in/swastik-pathak-3306371ba/" target="_blank">  
+    <img src="https://img.shields.io/badge/LinkedIn-Swastik%20Pathak-blue?style=flat-square&logo=linkedin" alt="LinkedIn Badge" />  
+  </a>  
+  <a href="mailto:swastikpathak.107@gmail.com">  
+    <img src="https://img.shields.io/badge/Email-swastikpathak.107%40gmail.com-red?style=flat-square&logo=gmail" alt="Email Badge" />  
+  </a>  
+</p>  
 
 ---
 
-### ⚡ Tech Stack:
-#### **Programming & Scripting**
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-</p>
-
-#### **Frontend Development**
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
-</p>
-
-#### **Backend & Databases**
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" width="40" height="40"/>
-</p>
-
-#### **Cloud & DevOps**
-<p>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-</p>
-
-#### **Tools & UI/UX**
-<p>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/adobe_xd/adobe_xd-icon.svg" alt="Adobe XD" width="40" height="40"/>
-</p>
+## 🚀 About Me  
+- 🔭 **Currently Working On:** Building a **Fitness Tracker Web App** *(Coming Soon!)*  
+- 🌱 **Currently Learning:** **MariaDB, NoSQL, React, PHP**  
+- 💡 **Passionate About:** Full-Stack Development, Cloud Computing, and UI/UX  
+- 👯 **Looking to Collaborate On:** **Real-world projects & Open Source Contributions**  
+- 🏆 **Achievements:** AWS Certified | React Certified | Cybersecurity by Google  
+- 🤝 **Let's Connect:** *If you're into cutting-edge web apps, let's talk!*  
 
 ---
 
-### 📊 GitHub Stats:
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swastik41&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=swastik41&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swastik41&" alt="GitHub Streak" />
-</p>
+## 🔗 Connect With Me  
+<p align="center">  
+  <a href="https://www.linkedin.com/in/swastik-pathak-3306371ba/" target="_blank">  
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" />  
+  </a>  
+  <a href="https://stackoverflow.com/users/29829713" target="_blank">  
+    <img src="https://img.icons8.com/color/48/000000/stackoverflow.png" alt="Stack Overflow" />  
+  </a>  
+  <a href="https://auth.geeksforgeeks.org/user/swastik41" target="_blank">  
+    <img src="https://img.icons8.com/color/48/000000/geeksforgeeks.png" alt="GeeksForGeeks" />  
+  </a>  
+</p>  
 
 ---
 
-📫 **Reach out to me at:** [swastikpathak.107@gmail.com](mailto:swastikpathak.107@gmail.com)
+## 🛠️ Tech Stack  
+### **Frontend Development**  
+<p align="left">  
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>  
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/>  
+  <img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="Vue.js"/>  
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/>  
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>  
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap"/>  
+  <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS"/>  
+</p>  
 
-🌟 *Passionate about building impactful tech solutions and learning something new every day!* 🚀
+### **Backend Development**  
+<p align="left">  
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>  
+  <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js"/>  
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>  
+  <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL"/>  
+  <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" width="48" height="48" alt="MariaDB"/>  
+</p>  
+
+### **DevOps & Tools**  
+<p align="left">  
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>  
+  <img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase"/>  
+  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker"/>  
+  <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma"/>  
+</p>  
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=swastik41&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />  
+</p>  
+<p align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=swastik41&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />  
+</p>  
+<p align="center">  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swastik41&theme=radical" alt="GitHub Streak" />  
+</p>  
+
+---
+
+## ⚡ Fun Fact  
+💡 *Coding is 10% writing code and 90% debugging it!* 😆  
+
+---
+
+### 🚀 *Let's Build Something Amazing Together! Feel Free to Reach Out!*  
+
